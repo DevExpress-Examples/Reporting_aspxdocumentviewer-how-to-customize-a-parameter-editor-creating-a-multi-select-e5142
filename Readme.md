@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/E5142/Default.aspx) (VB: [Default.aspx](./VB/E5142/Default.aspx))
-* **[Default.aspx.cs](./CS/E5142/Default.aspx.cs) (VB: [Default.aspx](./VB/E5142/Default.aspx))**
+* **[Default.aspx.cs](./CS/E5142/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E5142/Default.aspx.vb))**
 * [ProductsReport.cs](./CS/E5142/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/E5142/ProductsReport.vb))
 <!-- default file list end -->
 # ASPxDocumentViewer - How to customize a parameter editor (Creating a multi-select parameter)
