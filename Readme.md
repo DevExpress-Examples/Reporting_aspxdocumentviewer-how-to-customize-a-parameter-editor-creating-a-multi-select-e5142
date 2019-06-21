@@ -6,6 +6,9 @@
 * [ProductsReport.cs](./CS/E5142/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/E5142/ProductsReport.vb))
 <!-- default file list end -->
 # ASPxDocumentViewer - How to customize a parameter editor (Creating a multi-select parameter)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5142/)**
+<!-- run online end -->
 
 
 <p><strong>NOTE</strong> Starting with version <strong>15.1</strong> the multi-select parameters for our reporting suite are available out of the box. See the <a href="https://documentation.devexpress.com/#XtraReports/CustomDocument9997/Using">Parameters Overview > Using Parameters > Multi-Value Parameters</a> help topic for more details.</p>
